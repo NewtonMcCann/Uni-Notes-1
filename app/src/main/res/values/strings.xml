@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Uni-Notes</string>
+    <string name="notes_title">Notes</string>
+    <string name="timeT_title">TimeTable</string>
+    <string name="tools_title">Tools</string>
+    <string name="help_title">Help</string>
+    <string name="credits_title">Credits</string>
+</resources>
